@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>citie_sky.png</file>
+        <file>jeep.png</file>
+        <file>traffic_car.png</file>
+        <file>coin.png</file>
+    </qresource>
+</RCC>
